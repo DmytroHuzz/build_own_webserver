@@ -22,6 +22,9 @@ Each part is implemented to match the step-by-step explanations in the articles 
 
 3. [**Building Your Own Web Server — Part 3: Blocking Single and Multithreaded Server**](https://dev.to/dmytro_huz/building-your-own-web-server-part-3-blocking-single-and-multithreaded-server-3h7i)  
    Implement, benchmark, and analyze multiple versions of TCP servers — including a multithreaded server with NGINX-style route matching.
+   
+4. [**Building Your Own Web Server — Part 4: Single-threaded non-blocking server**](https://dev.to/dmytro_huz/building-your-own-web-server-part-4-single-threaded-non-blocking-server-3h5n)
+   Implement, benchmark, and analyze server with using non-blocking I/O and event-driven architecture.
 
 
 
