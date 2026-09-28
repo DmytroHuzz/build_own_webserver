@@ -1,5 +1,7 @@
 # 🧠 Building Your Own Web Server — Educational Repository
 
+This project is part of **Software Foundations**, the first-principles systems work behind [Software in the Grid](https://www.softwareinthegrid.com/).
+
 Welcome to the companion repository for the **“Building Your Own Web Server”** article series — a practical and educational journey through the low-level foundations of web server development.
 
 This repository contains fully working, educational Python implementations of:
@@ -48,6 +50,8 @@ And if you're building your own server after this — I’d love to hear about i
 
 ## 📩 Author
 
-Created by [Dmytro Huz](https://dev.to/dmytro_huz)
+Created by [Dmytro Huz](https://www.linkedin.com/in/dmitriyhuz/)
 
-Follow the full series on [dev.to](https://dev.to/dmytro_huz)
+Current publication: [Software in the Grid](https://www.softwareinthegrid.com/)
+
+Original web-server article series: [dev.to](https://dev.to/dmytro_huz)
